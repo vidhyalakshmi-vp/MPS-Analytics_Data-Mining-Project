@@ -17,10 +17,10 @@ This dataset is in the public domain and was obtained from https://www.nhtsa.gov
 This data mining project focuses on the analysis of the US Accident dataset, aiming to extract valuable insights and patterns from a comprehensive collection of accident reports. The project explores various data mining techniques to uncover trends, risk factors, and actionable information that can contribute to improved safety measures and accident prevention.  
   
 **Key Objectives**  
-*Analyze and preprocess the US Accident dataset.  
-*Identify common patterns and trends in accident data.  
-*Implement data mining algorithms to extract meaningful insights.  
-*Develop visualizations to represent findings effectively.  
+* Analyze and preprocess the US Accident dataset.  
+* Identify common patterns and trends in accident data.  
+* Implement data mining algorithms to extract meaningful insights.  
+* Develop visualizations to represent findings effectively.  
   
 **Project Structure**  
 The project is organized into the following sections:
