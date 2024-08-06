@@ -10,7 +10,7 @@ This project was undertaken as part of my Master's program in Analytics at North
 *Institution:* College of Professional Studies, Northeastern University  
 *Date:* June 28, 2022  
 
-**Dataset Description**
+**Dataset Description**  
 This dataset is in the public domain and was obtained from https://www.nhtsa.gov/crash-data-systems/fatality-analysis-reporting-system, U.S. government website. It is made available under the Creative Commons CC0 1.0 Universal (CC0 1.0) Public Domain Dedication. You are free to use, modify, and distribute the data without any restrictions. The dataset can be access at: https://www.kaggle.com/datasets/diyashmi/us-accidents-dec2021
   
 **Project Description**  
