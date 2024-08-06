@@ -1,4 +1,4 @@
-# MPS-Analytics_Data-Mining-Project
+#_Data Mining Project
 US Accident Data Mining Project
   
 **About**  
