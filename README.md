@@ -1,5 +1,5 @@
 # Data Mining Project
-US Accident Data Mining Project
+U.S. Accidents Data Mining Project
   
 **About**  
 This project was undertaken as part of my Master's program in Analytics at Northeastern University, Boston. It represents the collaborative effort of myself and a dedicated group of classmates, pooling our expertise to apply data mining principles to real-world data.  
