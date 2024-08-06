@@ -11,7 +11,7 @@ This project was undertaken as part of my Master's program in Analytics at North
 *Date:* June 28, 2022  
 
 **Dataset Description**  
-This dataset is in the public domain and was obtained from https://www.nhtsa.gov/crash-data-systems/fatality-analysis-reporting-system, U.S. government website. It is made available under the Creative Commons CC0 1.0 Universal (CC0 1.0) Public Domain Dedication. You are free to use, modify, and distribute the data without any restrictions. The dataset can be access at: https://www.kaggle.com/datasets/diyashmi/us-accidents-dec2021
+This dataset is in the public domain and was obtained from https://www.nhtsa.gov/crash-data-systems/fatality-analysis-reporting-system, U.S. government website. It is made available under the Creative Commons CC0 1.0 Universal (CC0 1.0) Public Domain Dedication. You are free to use, modify, and distribute the data without any restrictions. The dataset can be accessed at: https://www.kaggle.com/datasets/diyashmi/us-accidents-dec2021
   
 **Project Description**  
 This data mining project focuses on the analysis of the US Accident dataset, aiming to extract valuable insights and patterns from a comprehensive collection of accident reports. The project explores various data mining techniques to uncover trends, risk factors, and actionable information that can contribute to improved safety measures and accident prevention.  
